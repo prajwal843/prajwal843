@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prajwal Rahate</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aspiring Java Developer</h3>
 
-- 🔭 I’m currently working on **developing skills and proficiency related to web development**
+- 🔭 I’m currently working on **Developing skills and proficiency related to Software Development**
 
-- 🌱 I’m currently learning **React,Machine learning**
+- 🌱 I’m currently learning **Java SpringBoot , **
 
-- 👯 I’m looking to collaborate on **projects related to web development**
+- 👯 I’m looking to collaborate on **Projects related to software development**
 
-- 💬 Ask me about **Java,DSA,React,MERN**
+- 💬 Ask me about **Java,Java Development,DSA,React,**
 
 - 📫 How to reach me **prajwalrahate03@gmail.com**
 
